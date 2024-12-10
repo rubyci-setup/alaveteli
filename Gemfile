@@ -165,7 +165,7 @@ gem 'stimulus-rails', '~> 1.3.4'
 gem 'turbo-rails', '~> 2.0.11'
 
 # Feature flags
-gem 'alaveteli_features', path: 'gems/alaveteli_features'
+gem 'alaveteli_features'
 
 # Storage backends
 gem 'aws-sdk-s3', require: false
